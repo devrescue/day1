@@ -11,4 +11,3 @@ for p in pricePlusTax:
     total += p
 
 print(f"total is {total:.2f}")
-
